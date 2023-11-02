@@ -16,6 +16,7 @@ Could hosting recommendation:
 Google Cloud - https://cloud.google.com/blog/topics/developers-practitioners/build-and-run-discord-bot-top-google-cloud
 Local hosting:
 This essentially boils down to running the bot's code on your machine
+
 Setup and Installation:
 
 Setup your servers bot
